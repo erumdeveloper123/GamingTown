@@ -1,4 +1,7 @@
 @media screen and (max-width:600px){
+    #fbtn{
+        width="30%";
+    }
     .popup{
         display: none !important;
     }
@@ -336,6 +339,9 @@
 
 /* Media 360  */
 @media (width:360px){
+        #fbtn{
+        width="30%";
+    }
     .popup{
         display: none !important;
     }
