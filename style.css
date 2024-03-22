@@ -290,7 +290,7 @@ select option:hover{
 }
 .bg-image{
     width: 100%;
-    height: 350px;
+    height: auto;
     background-image: url(img/banner-bg.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -360,7 +360,7 @@ select option:hover{
 }
 .img-bg{
     width: 100%;
-    height: 230px;
+    height: auto;
     background-color:#27292a;
     border-radius: 20px;
 }
@@ -1019,7 +1019,7 @@ font-size: 15px !important;
 } 
 .section7-img{
     width: 100%;
-    height: 212px;
+    height: auto;
     background-color: #27292a;
     border-radius: 20px;
 }
