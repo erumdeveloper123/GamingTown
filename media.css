@@ -1,6 +1,6 @@
 @media screen and (max-width:600px){
     #fbtn{
-       width: 40%;
+       width: 44%;
     }
     .popup{
         display: none !important;
@@ -339,8 +339,8 @@
 
 /* Media 360  */
 @media (width:360px){
-        #fbtn{
-        width="30%";
+   #fbtn{
+       width: 44%;
     }
     .popup{
         display: none !important;
@@ -708,6 +708,9 @@
 /* Media 390px  */
 
 @media (width:390px){
+      #fbtn{
+       width: 44%;
+    }
     #popup{
         display: none !important;
     }
@@ -1067,6 +1070,9 @@
 /* Media 414  */
 
 @media (width:414px){
+      #fbtn{
+       width: 44%;
+    }
     .popup{
         display: none !important;
     }
@@ -1421,6 +1427,9 @@
 /* Media 430px  */
 
 @media (width:430px){
+      #fbtn{
+       width: 44%;
+    }
     .popup{
         display: none !important;
     }
